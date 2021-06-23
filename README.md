@@ -5,7 +5,7 @@
 
 ### 🤵 About Me
 - 🤔 I use daily ```.js```
-- 🌱 I’m currently learning backend and java
+- 🌱 I’m currently learning backend
 - 🍕 I like pizza 😋😋
 - 🍺 I like drink beer sometimes
 
