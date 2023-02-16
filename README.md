@@ -4,7 +4,7 @@
 
 
 ### 🤵 About Me
-- 🤔 I use daily ```.js```
+- 🤔 I use daily ```.js``` and ```.ts```
 - 🌱 I’m currently learning nodejs
 - 🍕 I like pizza 😋😋
 - 🍺 I like drink beer sometimes
